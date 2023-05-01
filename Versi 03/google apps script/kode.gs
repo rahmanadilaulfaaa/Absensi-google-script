@@ -16,7 +16,7 @@
 var idGambarLogo    = '13ClVA2xO5SDEmruMMsxoOU2-YGY-Sh0q'; // id file logo di google drive
 var idDataPegawai   = '1oFM55l2X4dkF6NnYc0BHwR7ZZmZZ9shXWQ9uKag5n18'; // id file spreadsheet
 var idFolderAbsensi = '1IOqpyDTKT12mOafF8sd1lz4ZF6jfU-84'; // id folder absensi
-var namaPerusahaan  = 'Fahroni Ganteng co, ltd';
+var namaPerusahaan  = 'Rahma Nadila co, ltd';
 
 // koordinat [lat,lon] --> koordinat bisa diambil dari google map (cek video di channel youtube saya)
 var lokasiPerusahaan = [-6.186079, 106.978706]; 
